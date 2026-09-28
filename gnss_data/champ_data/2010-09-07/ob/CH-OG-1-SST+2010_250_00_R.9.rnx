@@ -1,0 +1,25 @@
+     2.10           OBSERVATION DATA    GPS                 RINEX VERSION / TYPE
+gps-filter-2.0      wolfk               20100908 23:50:25CETPGM / RUN BY / DATE
+CHAMP Satellite                                             MARKER NAME
+unknown             GeoForschungsZentrum                    OBSERVER / AGENCY
+Main                Blackjack           2.0.9               REC # / TYPE / VERS
+POD_Antenna         unknown                                 ANT # / TYPE
+        0.0000        0.0000        0.0000                  APPROX POSITION XYZ
+        0.0000        0.0000        0.0000                  ANTENNA: DELTA H/E/N
+    10.000                                                  INTERVAL
+     1     1     0                                          WAVELENGTH FACT L1/2
+     9    L1    L2    C1    P1    P2   LP1    SA    S1    S2# / TYPES OF OBSERV
+  2010     9     7    17    33   10.0000000                 TIME OF FIRST OBS
+                                                            END OF HEADER
+ 10  9  7 17 33 10.0000000  0  5 11 20 32 23 31
+   -175463.717     -136725.330    22903272.139    22903272.052    22903275.122
+   -175463.953         356.000          79.000          75.000
+    294669.245      229612.266    22837996.687    22837996.214    22837999.300
+    294670.006         343.000          83.000          77.000
+    339148.324      264270.133    24406182.822    24406182.414    24406187.544
+    339148.088         485.000         152.000         180.000
+    -54137.998      -42185.566    20866039.659    20866039.430    20866040.393
+    -54137.232         269.000          42.000          49.000
+    386811.616      301410.308    26580091.770    26580048.025    26580101.959
+    386812.128         507.000          11.000         266.000
+END OF FILE                                                 COMMENT
